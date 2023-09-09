@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics Role
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics Job
-- 📫 How to reach me calderonjacquiliner@gmail.com
+- 📫 How to reach me calderonjacquiline001@gmail.com
 
 <!---
 JacquilineCalderon/JacquilineCalderon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
